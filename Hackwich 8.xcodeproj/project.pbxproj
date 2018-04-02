@@ -14,6 +14,7 @@
 		7FFC48E42072BF38004D270F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7FFC48E22072BF38004D270F /* LaunchScreen.storyboard */; };
 		7FFC48EF2072BF38004D270F /* Hackwich_8Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FFC48EE2072BF38004D270F /* Hackwich_8Tests.swift */; };
 		7FFC48FA2072BF38004D270F /* Hackwich_8UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FFC48F92072BF38004D270F /* Hackwich_8UITests.swift */; };
+		7FFC490A2072C5B7004D270F /* Restaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FFC49092072C5B7004D270F /* Restaurant.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		7FFC48F52072BF38004D270F /* Hackwich 8UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hackwich 8UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7FFC48F92072BF38004D270F /* Hackwich_8UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hackwich_8UITests.swift; sourceTree = "<group>"; };
 		7FFC48FB2072BF38004D270F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7FFC49092072C5B7004D270F /* Restaurant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				7FFC48D92072BF38004D270F /* AppDelegate.swift */,
 				7FFC48DB2072BF38004D270F /* ViewController.swift */,
 				7FFC48DD2072BF38004D270F /* Main.storyboard */,
+				7FFC49092072C5B7004D270F /* Restaurant.swift */,
 				7FFC48E02072BF38004D270F /* Assets.xcassets */,
 				7FFC48E22072BF38004D270F /* LaunchScreen.storyboard */,
 				7FFC48E52072BF38004D270F /* Info.plist */,
@@ -261,6 +264,7 @@
 			files = (
 				7FFC48DC2072BF38004D270F /* ViewController.swift in Sources */,
 				7FFC48DA2072BF38004D270F /* AppDelegate.swift in Sources */,
+				7FFC490A2072C5B7004D270F /* Restaurant.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
